@@ -18,7 +18,7 @@ variable "environment" {
 }
 
 variable "zone_name" {
-  #default = "daws76s.online"
+  #default = "daws66s.online"
 }
 
 variable "vpc_id" {
